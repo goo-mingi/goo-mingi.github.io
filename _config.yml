@@ -41,7 +41,7 @@ linkedin_username: 구민기
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-google_analytics: "G-H1BCBS1SXL"
+google_analytics: G-H1BCBS1SXL
 
 # About Section
 # about_title: About Me
