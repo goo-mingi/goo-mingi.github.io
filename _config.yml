@@ -20,8 +20,8 @@ github_username:  goo-mingi
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: ____ignim
-linkedin_username: 구민기
+# instagram_username: jekyll
+linkedin_username: 민기-구-b83061169
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -41,15 +41,29 @@ linkedin_username: 구민기
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-google_analytics: G-H1BCBS1SXL
+google_analytics: "G-H1BCBS1SXL"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/IMG_01119.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Mingi Goo, from South Korea, and I am a data scientist working at storelink. I have worked with <mark>R<mark> and <mark>Python<mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis application.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I earned my Msc degree on <mark>Quantitative Marketing<mark> from <mark>Seoul National University<mark> and BBA degree on <mark>Hotel Management<mark> from <mark>Kyunghee University<mark>.
+
+  One of my unusual hobby was to study languages: I can speak <mark>English<mark>, <mark>Chinese(Mandarin)<mark>, <mark>Japanese<mark>, and also my mother tongue <mark>Korean<mark>.
+
+  I really like to travel all around the world! I want to list all of cities I have ever been to here! So I made this site!!!!!
+
+  I've been to:
+    - Asia : Seoul, Busan, Jeju, Gwangju, Gangneung, Taipei, Chia'yi, Keelung, Taichung, Guangzhou, Xianggelila, Lijiang, Dali, Kunming, Hong Kong, Fukuoka, Xining
+    - Europe : London, Edinburgh, Brighton, Oxford, Glasgow, Rome, Positano, Florence, Milan, Venice, Interlaken, Vienna, Salzburg, Budapest, Prague, Munich, Berlin, Dresden, Koeln, Frankfurt am Main, Brussels, Paris
+    - North America : Washington D.C., New York City, Boston
+
+    It seems that I have super rich but I've just really worked hard to earn money for travel! (and... begging family?)
+
+
+  I love <mark>sleeping<mark>, but also enjoy going to <mark>gym<mark> and <mark>running<mark>
 
 content:
   - title: Projects # Title for the section
