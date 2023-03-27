@@ -1,1 +1,0 @@
-# goo-mingi.github.io
