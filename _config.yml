@@ -45,7 +45,7 @@ google_analytics: "G-H1BCBS1SXL"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_01119.JPG
+about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Mingi Goo, from South Korea, and I am a data scientist working at storelink. I have worked with <mark>R<mark> and <mark>Python<mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis application.
 
