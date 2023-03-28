@@ -47,11 +47,9 @@ google_analytics: "G-H1BCBS1SXL"
 # about_title: About Me
 about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Mingi Goo, from South Korea, and I am a data scientist working at storelink. I have worked with <mark>R<mark> and <mark>Python<mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis application.
+  Hi, my name is Mingi Goo, from South Korea, and I am a data scientist working at storelink. I have worked with <mark>R</mark> and <mark>Python</mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis application.
 
-  I earned my Msc degree on <mark>Quantitative Marketing<mark> from <mark>Seoul National University<mark> and BBA degree on <mark>Hotel Management<mark> from <mark>Kyunghee University<mark>.
-
-  One of my unusual hobby was to study languages: I can speak <mark>English<mark>, <mark>Chinese(Mandarin)<mark>, <mark>Japanese<mark>, and also my mother tongue <mark>Korean<mark>.
+  One of my unusual hobby was to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, and also my mother tongue <mark>Korean</mark>.
 
   I really like to travel all around the world! I want to list all of cities I have ever been to here! So I made this site!!!!!
 
@@ -60,23 +58,24 @@ about_content: | # this will include new lines to allow paragraphs
     - Europe : London, Edinburgh, Brighton, Oxford, Glasgow, Rome, Positano, Florence, Milan, Venice, Interlaken, Vienna, Salzburg, Budapest, Prague, Munich, Berlin, Dresden, Koeln, Frankfurt am Main, Brussels, Paris
     - North America : Washington D.C., New York City, Boston
 
-    It seems that I have super rich but I've just really worked hard to earn money for travel! (and... begging family?)
+    It seems that I am super rich but I've just really worked hard to earn money for travel! (and... begging family?)
 
 
-  I love <mark>sleeping<mark>, but also enjoy going to <mark>gym<mark> and <mark>running<mark>
+  I love <mark>sleeping</mark>, but also enjoy going to <mark>gym</mark> and <mark>running</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: STP Planning Project
+        Company: Korean Leading Life Insurance Company (Confidential)
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          # - title:  sproogen/modern-resume-theme
+          #   icon: fab fa-github
+          #   url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -103,15 +102,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Seoul National University (SNU)
+        caption: 2021 - 2023
+        sub_title: MSc Business Administration (Quantitative Marketing)
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Seoul National University is top school of South Korea, and one of the leading university of Asia. It is also known as the alma mater of Sangwoo of the Squid Game!
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Kyunghee University (KHU)
+        caption: 2015 - 2021
+        sub_title: BBA Hospitatlity Management
+        quote: >
+          As the leading university of Seoul, KHU's hospitality management is the most well-known major offering comprehensive education in business administration and hospitality industry.
+        description: |
+          Well....
 
   - title: A Little More About Me
     layout: text
