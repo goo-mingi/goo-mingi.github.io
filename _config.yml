@@ -51,17 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>.
 
-  I really like to travel all around the world! I want to list all the cities I have ever been to here!
 
-  I've been to:
-    - Asia : Seoul, Busan, Jeju, Gwangju, Gangneung, Taipei, Chia'yi, Keelung, Taichung, Guangzhou, Xianggelila, Lijiang, Dali, Kunming, Hong Kong, Fukuoka, Xining, Bangkok
-    - Europe : London, Edinburgh, Brighton, Oxford, Glasgow, Rome, Positano, Florence, Milan, Venice, Interlaken, Vienna, Salzburg, Budapest, Prague, Munich, Berlin, Dresden, Koeln, Frankfurt am Main, Brussels, Paris
-    - North America : Washington D.C., New York City, Boston
-
-    While it may seem like I'm wealthy, the truth is I've worked really hard to fund my travels.
-
-
-  I love <mark>sleeping</mark>, but I also enjoy going to the <mark>gym</mark> and <mark>running</mark>
 
 content:
   - title: Projects # Title for the section
@@ -116,10 +106,19 @@ content:
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
         quote: >
-          Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
+          (Advisor : Prof. Jun B. Kim) Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
         description: | # this will include new lines to allow paragraphs
           During my time at SNU, I learnt <mark>Quantitative marketing</mark> under many prominent marketing professors, which allows me to solve marketing problems based on data. Especially, I have been interested in <mark>consumer search</mark>, <mark>e-commerce</mark>, <mark>Bayesian statistics</mark> and <mark>machine learning</mark>.
-          Under the instruction of my advisor <mark>Prof. Jun B. Kim</mark>, I could research <mark>Heterogeneous Rank Effects in Online Marketplaces</mark> as my dissertation, which explores the heterogeneity of the rank effects across product categories in online marketplaces, focusing on organic results.
+
+            1) Dissertation : Heterogeneous Rank Effects in Online Marketplaces
+
+            2) Replicates of Rossi, McCulloch and Allenby
+
+            3) Analysis of the Floating Population in commercial districs in Seoul
+
+        
+
+          Featured Courseworks : Special Topics in Quantitative Marketing, Studies in quantitative Marketing Decision Making, Seminars in Marketing Models, Studies in Econometrics
       - layout: left
         title: Kyunghee University (KHU)
         caption: 2015 - 2021
@@ -127,19 +126,70 @@ content:
         quote: >
           As a leading university in Seoul, KHU's hospitality management is the most well-known major, offering comprehensive education in business administration and the hospitality industry.
         description: |
-          At KHU, I learnt various business problems specializing in the hospitality industry. While the major was industry-specific, the methodology I have learnt was generalizable; statistics and business analytics allowed me to pursue an MSc in quantitative marketing.
+          At KHU, I learnt various business problems specializing in the hospitality industry. While the major was industry-specific, the methodology I have learnt was generalizable; statistics and business analytics allowed me to pursue an MSc in quantitative marketing. FYI, I was also interested in political science, so I took some courses of Korean politics and international relations.
+
+          I was involved in many student clubs as follows: I was a co-founder of *Business Analytics and Consulting Club*, a leader of *Service Strategic Management Student Club*,a PR team leader of *the student council* in my major, and a member of *International Friendship and Culture exchange Club*.
+            1) Business Analytics and Consulting Club <mark>Co-founder</mark>
+              - I was one of the co-founders of this club. We actively find fellows to study business analytics and data analysis to initiate our club.
+              - We enthusiastically studied *statistics* and *R*. If we have any unsolved problems, we visit our advisor *Prof. Gyuwan Choi* and his doctoral student.
+              - This club was so successful that the number of our alumni already exceeded twenty!
+            2) Service Strategic Management Club <mark>Leader</mark>
+              - We studied strategic management, both from textbook study and from case study.
+              - On every vacation, we carried out projects for service enterprises to apply our knowledge --- I was affiliated with BENIKEA headquarters, which is a hotel cooperative owned by the Korean government.
+              - We proposed many marketing strategies to attract more customers, especially focusing on developing its unique style such as Providing traditional amenities and new branding to maintain its brand values.
+            3) Student Council <mark>Leader of PR Team</mark>
+              - As the leader of the PR team, I was responsible for managing the social media accounts of my major.
+              - To notify as many students as possible was my top priority --- I was always considering when to upload, how to upload and what to upload.
+            4) International Friendship and Culture Exchange Club <mark>Member</mark>
+              - As a multilingual in East Asian languages, I was responsible to take care of many students from Chinese region and Japan.
+              - One of my experience in this club includes to deal with an unusual situation involved with police, and the situation was solved easily, fortunately.
+              - My best experience during my undergraduate that I could broaden my insights to languages, cultures and people.
+
+          Featured Courseworks related to Quantitative Marketing : Business Analytics, Business Statistics, Principles of Economics, Essentials of Marketing Research, Theory of Marketing
+          Featured Courseworks related to Hospitality Management : Hospitality Strategic Management Case Study, Internet Marketing in Hospitality Industry, Hotel Management Analysis and M&A, Hotel Rooms Management
+          Featured Courseworks related to Political Science : International Relations Theories and Their Applications, Theories of International Relations, Comparative Politics, Government and Politics of Korea
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I really like to travel all around the world! I want to list all the cities I have ever been to here!
+
+      I've been to:
+        - Asia
+          - South Korea : Seoul, Busan, Jeju, Gwangju, Gangneung
+          - Taiwan : Taipei, Chia'yi, Keelung, Taichung
+          - Mainland China : Guangzhou, Xianggelila, Lijiang, Dali, Kunming, Xining
+          - Hong Kong
+          - Japan : Fukuoka, Osaka, Kyoto
+          - Thailand : Bangkok
+        - Europe
+          - United Kingdom : London, Edinburgh, Brighton, Oxford, Glasgow
+          - Italy : Rome, Positano, Florence, Milan, Venice
+          - Switzerland : Interlaken
+          - Austria : Vienna, Salzburg
+          - Hungary : Budapest
+          - Czech Republc : Prague
+          - Germany : Munich, Berlin, Dresden, Koeln, Frankfurt am Main
+          - Belgium : Brussels
+          - France : Paris
+        - North America
+          - the United States : Washington D.C., New York City, Boston
+    
+        While it may seem like I'm wealthy, the truth is I've worked really hard to fund my travels. If you are interested in my travel stories, you can visit [my blog](blog.naver.com/alsrl_1217). Sorry for only Korean.
+
+    
+    
+      I love <mark>sleeping</mark>, but I also enjoy going to the <mark>gym</mark> and <mark>running</mark>. Additionally, I love perfumes. 
+
+      # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      # - Rock climbing
+      # - Gaming
+      # - Knitting
+      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      # Look at this cool image  
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
