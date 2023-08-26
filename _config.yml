@@ -49,6 +49,8 @@ about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Mingi Goo. I'm a data scientist from South Korea, currently working at Storelink. I have worked with <mark>R</mark> and <mark>Python</mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis applications.
 
+  If you want to understand me formally, you can refer to my <mark>(CV)[https://1drv.ms/b/s!ArR47cH0ml_jjKhEWZHwgokPu995zw?e=Q4ftP8]</mark>.
+
   One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>.
 
 
@@ -92,11 +94,13 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a Data Scientist at Storelink, I focus on online marketplaces. Below are some of the market analysis projects I have carried out:
 
-              1) Brand Involvement Analysis : While consumers tend to refer to the rank when they purchase in online markets, some products are more influenced by their brands than the rank itself. We call this <mark>Keywords in High Brand Involvement</mark>. This model analyzes whether the products from the result of a keyword have high brand involvement or not. This model has become a core competence of my company, and we are now developing it for customers to use this model on our website.
+              1) <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to the rank when they purchase in online markets, some products are more influenced by their brands than the rank itself. We call this *Keywords in High Brand Involvement*. This model analyzes whether the products from the result of a keyword have high brand involvement or not. This model has become a *core competence* of my company, and we are now developing it for customers to use this model on our website.
 
-              2) Customer Segmentation : We have many customers to buy the products of our business partners. To enhance the success rate of our marketing campaigns, I am developing a customer segmentation model for targeted marketing.
 
-              3) Algorithm Detection : One of our top priorities is to expose our customers' products at the top of the search result site. Therefore, changes in the search algorithms are crucial to our business. I have identified the key variables that significantly impact search algorithms, as well as the timings of algorithm changes.
+              2) <mark>Customer Segmentation</mark> : We have many customers to buy the products of our business partners. To enhance the success rate of our marketing campaigns, I am developing a *customer segmentation model for targeted marketing*.
+
+
+              3) <mark>Algorithm Detection<mark> : One of our top priorities is to expose our customers' products at the top of the search result site. Therefore, changes in the search algorithms are crucial to our business. I have identified the key variables that significantly impact search algorithms, as well as the timings of algorithm changes.
               
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,13 +110,15 @@ content:
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
         quote: >
-          (Advisor : Prof. Jun B. Kim) Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
+          *(Advisor : Prof. Jun B. Kim)* Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
         description: | # this will include new lines to allow paragraphs
           During my time at SNU, I learnt <mark>Quantitative marketing</mark> under many prominent marketing professors, which allows me to solve marketing problems based on data. Especially, I have been interested in <mark>consumer search</mark>, <mark>e-commerce</mark>, <mark>Bayesian statistics</mark> and <mark>machine learning</mark>.
 
             1) Dissertation : Heterogeneous Rank Effects in Online Marketplaces
 
+
             2) Replicates of Rossi, McCulloch and Allenby
+
 
             3) Analysis of the Floating Population in commercial districs in Seoul
 
@@ -128,19 +134,28 @@ content:
         description: |
           At KHU, I learnt various business problems specializing in the hospitality industry. While the major was industry-specific, the methodology I have learnt was generalizable; statistics and business analytics allowed me to pursue an MSc in quantitative marketing. FYI, I was also interested in political science, so I took some courses of Korean politics and international relations.
 
-          I was involved in many student clubs as follows: I was a co-founder of *Business Analytics and Consulting Club*, a leader of *Service Strategic Management Student Club*,a PR team leader of *the student council* in my major, and a member of *International Friendship and Culture exchange Club*.
-            1) Business Analytics and Consulting Club <mark>Co-founder</mark>
+          I was involved in many student clubs as follows:
+
+          
+            - Business Analytics and Consulting Club <mark>Co-founder</mark>
+            
               - I was one of the co-founders of this club. We actively find fellows to study business analytics and data analysis to initiate our club.
               - We enthusiastically studied *statistics* and *R*. If we have any unsolved problems, we visit our advisor *Prof. Gyuwan Choi* and his doctoral student.
               - This club was so successful that the number of our alumni already exceeded twenty!
-            2) Service Strategic Management Club <mark>Leader</mark>
+              
+            - Service Strategic Management Club <mark>Leader</mark>
+            
               - We studied strategic management, both from textbook study and from case study.
               - On every vacation, we carried out projects for service enterprises to apply our knowledge --- I was affiliated with BENIKEA headquarters, which is a hotel cooperative owned by the Korean government.
               - We proposed many marketing strategies to attract more customers, especially focusing on developing its unique style such as Providing traditional amenities and new branding to maintain its brand values.
-            3) Student Council <mark>Leader of PR Team</mark>
+              
+            - Student Council <mark>Leader of PR Team</mark>
+            
               - As the leader of the PR team, I was responsible for managing the social media accounts of my major.
               - To notify as many students as possible was my top priority --- I was always considering when to upload, how to upload and what to upload.
-            4) International Friendship and Culture Exchange Club <mark>Member</mark>
+              
+            - International Friendship and Culture Exchange Club <mark>Member</mark>
+            
               - As a multilingual in East Asian languages, I was responsible to take care of many students from Chinese region and Japan.
               - One of my experience in this club includes to deal with an unusual situation involved with police, and the situation was solved easily, fortunately.
               - My best experience during my undergraduate that I could broaden my insights to languages, cultures and people.
@@ -176,7 +191,7 @@ content:
         - North America
           - the United States : Washington D.C., New York City, Boston
     
-        While it may seem like I'm wealthy, the truth is I've worked really hard to fund my travels. If you are interested in my travel stories, you can visit [my blog](blog.naver.com/alsrl_1217). Sorry for only Korean.
+        While it may seem like I'm wealthy, the truth is I've worked really hard to fund my travels. If you are interested in my travel stories, you can visit [my blog](https://blog.naver.com/alsrl_1217). Sorry for only Korean.
 
     
     
