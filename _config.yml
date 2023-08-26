@@ -84,7 +84,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        logo: /images/logo_storelink.png
+        [logo](/images/logo_storelink.png)
         title: Storelink
         link: storelink.io
         # link_text: boringcompany.com
