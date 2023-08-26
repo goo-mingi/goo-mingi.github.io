@@ -49,7 +49,7 @@ about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Mingi Goo. I'm a data scientist from South Korea, currently working at Storelink. I have worked with <mark>R</mark> and <mark>Python</mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis applications.
 
-  If you want to understand me formally, you can refer to my <mark>(CV)[https://1drv.ms/b/s!ArR47cH0ml_jjKhEWZHwgokPu995zw?e=Q4ftP8]</mark>.
+  If you want to understand me formally, you can refer to my <mark>[CV](https://1drv.ms/b/s!ArR47cH0ml_jjKhEWZHwgokPu995zw?e=Q4ftP8)</mark>.
 
   One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>.
 
@@ -94,10 +94,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a Data Scientist at Storelink, I focus on online marketplaces. Below are some of the market analysis projects I have carried out:
 
-              1) <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to the rank when they purchase in online markets, some products are more influenced by their brands than the rank itself. We call this *Keywords in High Brand Involvement*. This model analyzes whether the products from the result of a keyword have high brand involvement or not. This model has become a *core competence* of my company, and we are now developing it for customers to use this model on our website.
+              1) <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to the rank when they purchase in online markets, some products are more influenced by their brands than the rank itself. We call this **Keywords in High Brand Involvement**. This model analyzes whether the products from the result of a keyword have high brand involvement or not. This model has become a **core competence** of my company, and we are now developing it for customers to use this model on our website.
 
 
-              2) <mark>Customer Segmentation</mark> : We have many customers to buy the products of our business partners. To enhance the success rate of our marketing campaigns, I am developing a *customer segmentation model for targeted marketing*.
+              2) <mark>Customer Segmentation</mark> : We have many customers to buy the products of our business partners. To enhance the success rate of our marketing campaigns, I am developing a **customer segmentation model for targeted marketing**.
 
 
               3) <mark>Algorithm Detection<mark> : One of our top priorities is to expose our customers' products at the top of the search result site. Therefore, changes in the search algorithms are crucial to our business. I have identified the key variables that significantly impact search algorithms, as well as the timings of algorithm changes.
@@ -140,7 +140,7 @@ content:
             - Business Analytics and Consulting Club <mark>Co-founder</mark>
             
               - I was one of the co-founders of this club. We actively find fellows to study business analytics and data analysis to initiate our club.
-              - We enthusiastically studied *statistics* and *R*. If we have any unsolved problems, we visit our advisor *Prof. Gyuwan Choi* and his doctoral student.
+              - We enthusiastically studied **statistics** and **R**. If we have any unsolved problems, we visit our advisor *Prof. Gyuwan Choi* and his doctoral student.
               - This club was so successful that the number of our alumni already exceeded twenty!
               
             - Service Strategic Management Club <mark>Leader</mark>
@@ -172,11 +172,11 @@ content:
 
       I've been to:
         - Asia
-          - South Korea : Seoul, Busan, Jeju, Gwangju, Gangneung
-          - Taiwan : Taipei, Chia'yi, Keelung, Taichung
-          - Mainland China : Guangzhou, Xianggelila, Lijiang, Dali, Kunming, Xining
+          - South Korea : Seoul(서울), Busan(부산), Jeju(제주), Gwangju(광주), Gangneung(강릉), Sokcho(속초)
+          - Taiwan : Taipei(台北), Chia'yi(嘉義), Keelung(基隆), Taichung(台中)
+          - Mainland China : Guangzhou(广州), Xianggelila(香格里拉), Lijiang(丽江), Dali(大理), Kunming(昆明), Xining(西宁)
           - Hong Kong
-          - Japan : Fukuoka, Osaka, Kyoto
+          - Japan : Fukuoka(福岡), Osaka(大阪), Kyoto(京都)
           - Thailand : Bangkok
         - Europe
           - United Kingdom : London, Edinburgh, Brighton, Oxford, Glasgow
@@ -197,14 +197,14 @@ content:
     
       I love <mark>sleeping</mark>, but I also enjoy going to the <mark>gym</mark> and <mark>running</mark>. Additionally, I love perfumes. 
 
-      # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      # - Rock climbing
-      # - Gaming
-      # - Knitting
-      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      # Look at this cool image  
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
