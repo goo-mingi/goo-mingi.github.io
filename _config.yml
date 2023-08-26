@@ -47,21 +47,21 @@ google_analytics: "G-H1BCBS1SXL"
 # about_title: About Me
 about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Mingi Goo, from South Korea, and I am a data scientist working at storelink. I have worked with <mark>R</mark> and <mark>Python</mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis application.
+  Hi, my name is Mingi Goo. I'm a data scientist from South Korea, currently working at Storelink. I have worked with <mark>R</mark> and <mark>Python</mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis applications.
 
-  One of my unusual hobby was to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, and also my mother tongue <mark>Korean</mark>.
+  One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>.
 
-  I really like to travel all around the world! I want to list all of cities I have ever been to here! So I made this site!!!!!
+  I really like to travel all around the world! I want to list all the cities I have ever been to here!
 
   I've been to:
-    - Asia : Seoul, Busan, Jeju, Gwangju, Gangneung, Taipei, Chia'yi, Keelung, Taichung, Guangzhou, Xianggelila, Lijiang, Dali, Kunming, Hong Kong, Fukuoka, Xining
+    - Asia : Seoul, Busan, Jeju, Gwangju, Gangneung, Taipei, Chia'yi, Keelung, Taichung, Guangzhou, Xianggelila, Lijiang, Dali, Kunming, Hong Kong, Fukuoka, Xining, Bangkok
     - Europe : London, Edinburgh, Brighton, Oxford, Glasgow, Rome, Positano, Florence, Milan, Venice, Interlaken, Vienna, Salzburg, Budapest, Prague, Munich, Berlin, Dresden, Koeln, Frankfurt am Main, Brussels, Paris
     - North America : Washington D.C., New York City, Boston
 
-    It seems that I am super rich but I've just really worked hard to earn money for travel! (and... begging family?)
+    While it may seem like I'm wealthy, the truth is I've worked really hard to fund my travels.
 
 
-  I love <mark>sleeping</mark>, but also enjoy going to <mark>gym</mark> and <mark>running</mark>
+  I love <mark>sleeping</mark>, but I also enjoy going to the <mark>gym</mark> and <mark>running</mark>
 
 content:
   - title: Projects # Title for the section
@@ -80,24 +80,34 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This project aimed to create a totally new STP strategy, bringing focus to consumers' <mark>digital behavior</mark>.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          At my time at SNU, I collaborated on this project with 4 professors, including my advisor, and fellow graduate students, from the fields of Marketing, Information Systems and Finance Major. My responsibilities were as follows:
+
+            1) <mark>Developing a comprehensive survey</mark> to understand customers' insurance purchasing journey and their digital behavior
+            2) <mark>Analyzing the survey data</mark> to identify latent demand and effectively target potential customers
+            3) <mark>Proposing field-specific tactics</mark> for potential customer segments
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Storelink
+        link: storelink.io
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Data Scientist
+        caption: February 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Storelink is an e-marketing solution company specializing in data-driven marketing strategies. Our customers include conglomerates and SMEs, and we are growing rapidly. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            As a Data Scientist at Storelink, I focus on online marketplaces. Below are some of the market analysis projects I have carried out:
 
+              1) Brand Involvement Analysis : While consumers tend to refer to the rank when they purchase in online markets, some products are more influenced by their brands than the rank itself. We call this <mark>Keywords in High Brand Involvement</mark>. This model analyzes whether the products from the result of a keyword have high brand involvement or not. This model has become a core competence of my company, and we are now developing it for customers to use this model on our website.
+
+              2) Customer Segmentation : We have many customers to buy the products of our business partners. To enhance the success rate of our marketing campaigns, I am developing a customer segmentation model for targeted marketing.
+
+              3) Algorithm Detection : One of our top priorities is to expose our customers' products at the top of the search result site. Therefore, changes in the search algorithms are crucial to our business. I have identified the key variables that significantly impact search algorithms, as well as the timings of algorithm changes.
+              
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -106,19 +116,18 @@ content:
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
         quote: >
-          Seoul National University is top school of South Korea, and one of the leading university of Asia. It is also known as the alma mater of Sangwoo of the Squid Game!
+          Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time at SNU, I learnt <mark>Quantitative marketing</mark> under many prominent marketing professors, which allows me to solve marketing problems based on data. Especially, I have been interested in <mark>consumer search</mark>, <mark>e-commerce</mark>, <mark>Bayesian statistics</mark> and <mark>machine learning</mark>.
+          Under the instruction of my advisor <mark>Prof. Jun B. Kim</mark>, I could research <mark>Heterogeneous Rank Effects in Online Marketplaces</mark> as my dissertation, which explores the heterogeneity of the rank effects across product categories in online marketplaces, focusing on organic results.
       - layout: left
         title: Kyunghee University (KHU)
         caption: 2015 - 2021
-        sub_title: BBA Hospitatlity Management
+        sub_title: BBA Hospitality Management
         quote: >
-          As the leading university of Seoul, KHU's hospitality management is the most well-known major offering comprehensive education in business administration and hospitality industry.
+          As a leading university in Seoul, KHU's hospitality management is the most well-known major, offering comprehensive education in business administration and the hospitality industry.
         description: |
-          Well....
+          At KHU, I learnt various business problems specializing in the hospitality industry. While the major was industry-specific, the methodology I have learnt was generalizable; statistics and business analytics allowed me to pursue an MSc in quantitative marketing.
 
   - title: A Little More About Me
     layout: text
