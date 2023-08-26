@@ -84,7 +84,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-      ![Logo](/images/logo_storelink.png)
+        logo: /images/logo_storelink.png
         title: Storelink
         link: storelink.io
         # link_text: boringcompany.com
@@ -107,7 +107,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-      ![Logo](/images/logo_snu.png)
+        logo: /images/logo_snu.png
         title: Seoul National University (SNU)
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
@@ -128,7 +128,7 @@ content:
 
           Featured Courseworks : Special Topics in Quantitative Marketing, Studies in quantitative Marketing Decision Making, Seminars in Marketing Models, Studies in Econometrics
       - layout: left
-      ![Logo](/images/logo_khu.png)
+        logo: /images/logo_khu.png
         title: Kyunghee University (KHU)
         caption: 2015 - 2021
         sub_title: BBA Hospitality Management
