@@ -47,7 +47,7 @@ gtag: "UA-283186543-1"
 # about_title: About Me
 about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is **Mingi Goo**. I'm a **data scientist** from South Korea, currently working at **Storelin**k. I have worked with <mark>R</mark> and <mark>Python</mark>, including **SQL**, **AWS** and **Github**, and utilized **Streamlit** to serve data analysis applications.
+  Hi, my name is **Mingi Goo**. I'm a **data scientist** from South Korea, currently working at **Storelink**. I have worked with <mark>R</mark> and <mark>Python</mark>, including **SQL**, **AWS** and **Github**, and utilized **Streamlit** to serve data analysis applications.
 
   My research interests lie in <mark>consumer search, e-commerce, digital marketing and search engine marketing</mark>, which was the focus of my [Master's thesis](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT). With regard to methodology, I am intrigued by <mark>econometrical methodology</mark>, as well as <mark>machine learning techniques</mark> to investigate various data sets and <mark>Bayesian methodology</mark>.
 
@@ -156,7 +156,7 @@ content:
         quote: >
           Storelink is an e-marketing solution company that specializes in data-driven marketing strategies. Our lient base includes both conglomerates and SMEs, and we are experiencing rapid growth. 
         description: | # this will include new lines to allow paragraphs
-            As a Data Scientist at Storelink, I lies in online marketplaces. Below are some of the market analysis projects I've undertaken:
+            As a Data Scientist at Storelink, my focus lies on online marketplaces. Below are some of the market analysis projects I've undertaken:
 
               - <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to rankings when making purchase decisions in online markets, some products are more heavily influenced by their brands than the rankings themselves. We term these **Keywords in High Brand Involvement**. This model evaluates whether the products resulting from a keyword search exhibit high brand involvement. I took the initiative to develop this model from a **zero-base**, employing both **econometric methodologies** and **machine learning techniques**. This model has emerged as a **core competency** for our company, and we are currently developing a customer-facing version of it for our website, collaborating with software engineers.
 
@@ -251,7 +251,7 @@ content:
 
               - **Employed data analysis** on public datasets and local commercial sectors to comprehensively identify and address the core issues affecting tourism in the area.
 
-            Consequently, our team was honored with the 2nd prize, presented by the governor of Jeollanam-do Province!
+            Consequently, our team was honored with **the 2nd prize**, presented by the **governor** of Jeollanam-do Province!
 
   - title: Military Service # Title for the section
     layout: list # Type of content section (list/text)
@@ -262,7 +262,7 @@ content:
         sub_title: Sergeant Discharged
         caption: July 2016 - July 2018
         description: | # this will include new lines to allow paragraphs
-          During my tenure in the Republic of Korea Air Force, I served in a multifaceted role as a **military police officer**. My duties encompassed base security, routine patrols, and the supervision of a specialised strike force as well as a trained military dog.
+          During my tenure in the Republic of Korea Air Force, I served in a multifaceted role as a **military police officer**. My duties encompassed base security, routine patrols, and the supervision of a specialized strike force as well as a trained military dog.
 
           Within the Military Police Department, I also undertook **administrative responsibilities**, which included the meticulous scheduling of duty rosters and furloughs, in addition to managing inventory and supplies.
 
