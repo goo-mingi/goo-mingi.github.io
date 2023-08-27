@@ -15,7 +15,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  goo-mingi
+# github_username:  goo-mingi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -47,7 +47,7 @@ gtag: "UA-283186543-1"
 # about_title: About Me
 about_profile_image: images/IMG_0119.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Mingi Goo. I'm a data scientist from South Korea, currently working at Storelink. I have worked with <mark>R</mark> and <mark>Python</mark>, including SQL, AWS and Github, and utilized Streamlit to serve data analysis applications.
+  Hi, my name is **Mingi Goo**. I'm a **data scientist** from South Korea, currently working at **Storelin**k. I have worked with <mark>R</mark> and <mark>Python</mark>, including **SQL**, **AWS** and **Github**, and utilized **Streamlit** to serve data analysis applications.
 
   My research interests lie in <mark>consumer search, e-commerce, digital marketing and search engine marketing</mark>, which was the focus of my [Master's thesis](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT). With regard to methodology, I am intrigued by <mark>econometrical methodology</mark>, as well as <mark>machine learning techniques</mark> to investigate various data sets and <mark>Bayesian methodology</mark>.
 
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I majored in **Hospitality Management** at Kyung Hee University as an undergraduate. You may wonder why the major changed so dramatically. One of my professors in KHU consistently emphasized that hospitality management should focus more on data science to better identify customer preferences. This inspired me to take courses in business statistics and business analytics.
 
-  While taking these courses, I discovered that the methodologies were fascinating! Inferring populations from samples and deriving insights through analyzing and predictingata captivated me, leading me to further pursue quantitative skills. As I delved into those skills, I realized that a focus on marketing would provide powerful tools for analysis.
+  While taking these courses, I discovered that the methodologies were fascinating! Inferring populations from samples and deriving insights through analyzing and predicting captivated me, leading me to further pursue quantitative skills. As I delved into those skills, I realized that a focus on marketing would provide powerful tools for analysis.
 
   One of my unique hobbies is to study languages: I am fluent in <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my native language of <mark>Korean</mark>. This skill set stems from a keen interest in diverse cultures.
 
@@ -79,16 +79,15 @@ content:
 
             - [Dissertation](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT) : Heterogeneous Rank Effects in Online Marketplaces
 
-              - Analyzed heterogeneous rank effects across product categories in the online marketplace using the fixed-effect model
+              - Analyzed **heterogeneous rank effects across product categories** in the online marketplace using the fixed-effect model, using the organic results of the online marketplace
               - Identified the main factors of heterogeneity in product characteristics and price dispersion
               - Proposed search engine marketing strategies for different product categories online
-              - Novel to analyze the organic results of the online marketplace by difference categories
 
 
             - Replication of Rossi, McCulloch and Allenby (1996, *MktSci*)
 
               - Implemented during the coursework "Studies in quantitative Marketing Decision Making"
-              - Replicated Bayesian model proposed by Rossi, McCulloch and Allenby (1996, *MktSci*) without any structured packages in R
+              - Replicated **Bayesian model** proposed by Rossi, McCulloch and Allenby (1996, *MktSci*) without any structured packages in R
               - Compared the estimated results and predictions with those of the frequentist approach (MLE)
 
 
@@ -96,7 +95,7 @@ content:
 
               - Implemented during the coursework "Special Topics in Quantitative Marketing"
               - Analyzed which type of food service businesses impact the number of floating population to suggest suitable locations for these businesses
-              - Utilized a fixed effect model using government public data, which required considerable data cleansing from various forms of data
+              - Utilized a fixed effect model using government **public data**, which required considerable data cleansing from various forms of data
 
         
 
@@ -110,9 +109,9 @@ content:
         quote: >
           As a leading university in Seoul, KHU's hospitality management is one of the most well-known majors, offering a comprehensive education in both business administration and the hospitality industry.
         description: |
-          At KHU, I acquired skills in addressing various business challenges, specifically within the hospitality industry. While the major was focused on a specific industry, the methodologies I learnt were transferable. My background in statistics and business analytics paved the way for me to pursue an MSc in quantitative marketing.
+          At KHU, I acquired skills in addressing various business challenges, specifically within the **hospitality industry**. While the major was focused on a specific industry, the methodologies I learnt were transferable. My background in **statistics** and **business analytics** paved the way for me to pursue an MSc in quantitative marketing.
 
-          For your information, I also had a keen interest in political science and thus took courses in Korean politics and international relations.
+          For your information, I also had a keen interest in **political science** and thus took courses in Korean politics and international relations.
 
           I was involved in many student clubs as follows:
 
@@ -126,10 +125,10 @@ content:
               
             - <mark>Service Strategic Management Club</mark> *President*
             
-              - We delved into strategic management through both textbook study and case study.
+              - We delved into **strategic management** through both textbook study and case study.
               - Every vacation, we implemented projects for service enterprises. I collaborated with BENIKEA headquarters, which is a hotel cooperative owned by the Korean government.
               - We devised various marketing strategies to attract more customers, focusing particularly on developing unique styles, such as offering traditional amenities and establishing new branding initiatives.
-              - Advisor : *Prof Kang, Kyung Ho*
+              - Advisor : *Prof. Kang, Kyung Ho*
               
             - <mark>Student Council</mark> *Leader of PR Team*
             
@@ -142,6 +141,31 @@ content:
               - I successfully managed unusual situations that required police intervention, solving them with ease.
 
           Featured Courseworks related to **Quantitative Marketing** : Business Analytics, Business Statistics, Principles of Economics, Essentials of Marketing Research, Theory of Marketing
+
+
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        about_profile_image: /images/logo_storelink.png
+        title: Storelink
+        link: storelink.io
+        link_text: storelink.io
+        sub_title: Data Scientist
+        caption: February 2022 - Present
+        quote: >
+          Storelink is an e-marketing solution company that specializes in data-driven marketing strategies. Our lient base includes both conglomerates and SMEs, and we are experiencing rapid growth. 
+        description: | # this will include new lines to allow paragraphs
+            As a Data Scientist at Storelink, I lies in online marketplaces. Below are some of the market analysis projects I've undertaken:
+
+              - <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to rankings when making purchase decisions in online markets, some products are more heavily influenced by their brands than the rankings themselves. We term these **Keywords in High Brand Involvement**. This model evaluates whether the products resulting from a keyword search exhibit high brand involvement. I took the initiative to develop this model from a **zero-base**, employing both **econometric methodologies** and **machine learning techniques**. This model has emerged as a **core competency** for our company, and we are currently developing a customer-facing version of it for our website, collaborating with software engineers.
+
+
+              - <mark>Customer Segmentation</mark> : We aim to serve a diverse set of customers through our business partners. To increase the effectiveness of our marketing campaigns, I am in the process of developing a customer segmentation model for **targeted marketing**.
+
+
+              - <mark>Algorithm Detection</mark> : One of our top priorities is to ensure that our customers' products appear at the top of search result pages. Therefore, insights into changes in search algorithms are critical for our operations. I have identified key variables that markedly affect search algorithms, as well as pinpointed the timings when these algorithm changes occur.
+            
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -169,6 +193,8 @@ content:
 
             - <mark>Proposing field-specific tactics</mark> for potential customer segments
 
+          Throughout the project, I gained practical insights into the entire STP (Segmentation, Targeting, Positioning) process from the survey formulation and data scrutiny to strategic planning.
+
       - layout: left
         title: Holistic Marketing Strategy Consulting
         sub_title: at Benikea Hotel Chain Headquarters
@@ -190,29 +216,8 @@ content:
 
             - <mark>Suggesting overseas expansion</mark>, tailored promotions and new amenities to establish a consistent brand identity emphasizing unique characteristics as a Korean hotel chain
 
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        image: /images/logo_storelink.png
-        title: Storelink
-        link: storelink.io
-        # link_text: boringcompany.com
-        sub_title: Data Scientist
-        caption: February 2022 - Present
-        quote: >
-          Storelink is an e-marketing solution company that specializes in data-driven marketing strategies. Our lient base includes both conglomerates and SMEs, and we are experiencing rapid growth. 
-        description: | # this will include new lines to allow paragraphs
-            As a Data Scientist at Storelink, I lies in online marketplaces. Below are some of the market analysis projects I've undertaken':
+          Although the unforeseen upheaval in the industry due to the pandemic prevented the implementation of our proposals, the experience afforded me valuable insights into consulting, client engagement, and effective communication.
 
-              - <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to rankings when making purchase decisions in online markets, some products are more heavily influenced by their brands than the rankings themselves. We term these **Keywords in High Brand Involvement**. This model evaluates whether the products resulting from a keyword search exhibit high brand involvement. I took the initiative to develop this model from a zero-base, employing both econometric methodologies and machine learning techniques. This model has emerged as a core competency for our company, and we are currently developing a customer-facing version of it for our website collaborating with software engineers.
-
-
-              - <mark>Customer Segmentation</mark> : We aim to serve a diverse set of customers through our business partners. To increase the effectiveness of our marketing campaigns, I am in the process of developing a customer segmentation model for **targeted marketing**.
-
-
-              - <mark>Algorithm Detection</mark> : One of our top priorities is to ensure that our customers' products appear at the top of search result pages. Therefore, insights into changes in search algorithms are critical for our operations. I have identified key variables that markedly affect search algorithms, as well as pinpointed the timings when these algorithm changes occur.
-            
   - title: Teaching Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -237,10 +242,8 @@ content:
       - layout: left
         # image: /images/logo_storelink.png
         title: Idea Contest for Mokpo
-        sub_title: Hosted by *the Korea Academic Society for the Food Service Industry Policy*
+        sub_title: Hosted by the Korea Academic Society for the Food Service Industry Policy
         caption: December 2020
-        quote: >
-           achieved the 2nd prize awarded by the governor of Jeollanam-do Province
         description: | # this will include new lines to allow paragraphs
             This contest sought innovative solutions to boost the tourism sector in Mokpo city, located in the southern region of Jeollanam-do province, South Korea. 
 
@@ -248,15 +251,16 @@ content:
 
               - **Employed data analysis** on public datasets and local commercial sectors to comprehensively identify and address the core issues affecting tourism in the area.
 
+            Consequently, our team was honored with the 2nd prize, presented by the governor of Jeollanam-do Province!
+
   - title: Military Service # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         # image: /images/logo_storelink.png
         title: Republic of Korea Air Force (ROKAF)
+        sub_title: Sergeant Discharged
         caption: July 2016 - July 2018
-        quote: >
-          Sergeant Discharged
         description: | # this will include new lines to allow paragraphs
           During my tenure in the Republic of Korea Air Force, I served in a multifaceted role as a **military police officer**. My duties encompassed base security, routine patrols, and the supervision of a specialised strike force as well as a trained military dog.
 
@@ -298,7 +302,7 @@ content:
         - Chinese (Mandarin): OPIc Rating Level AL (Highest Level), HSK Rating Level 6 (Highest Level)
         - Japanese: JLPT Rating Level N2 (Second Highest Level)
     
-      I adore slumber, but I equally enjoy going to the <mark>gym</mark> and <mark>running</mark>, as well as drinking <mark>good coffee</mark>.
+      I adore slumber, but I equally enjoy going to the **gym** and **running**, as well as drinking **good coffee**.
 
 #      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 #      - Rock climbing
@@ -314,7 +318,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
