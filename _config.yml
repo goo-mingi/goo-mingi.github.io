@@ -63,7 +63,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         about_profile_images: /images/logo_snu.png
         title: Seoul National University (SNU)
         caption: 2021 - 2023
@@ -98,7 +98,7 @@ content:
 
           Featured Courseworks : Special Topics in Quantitative Marketing, Studies in quantitative Marketing Decision Making, Seminars in Marketing Models, Studies in Econometrics
           
-      - layout: left
+      - layout: top-middle
         logo: /images/logo_khu.png
         title: Kyunghee University (KHU)
         caption: 2015 - 2021
@@ -111,26 +111,26 @@ content:
           I was involved in many student clubs as follows:
 
           
-            - Business Analytics and Consulting Club <mark>Co-founder</mark>
+            - <mark>Business Analytics and Consulting Club</mark> *Co-founder*
             
               - I was one of the co-founders of this club. We actively find fellows to study business analytics and data analysis to initiate our club.
               - We enthusiastically studied **statistics** and **R**. If we have any unsolved problems, we visit our advisor *Prof. Gyuwan Choi* and his doctoral student.
               - This club was so successful that the number of our alumni already exceeded twenty!
               - Advisor : *Prof. Choi, Kyu Wan*
               
-            - Service Strategic Management Club <mark>Leader</mark>
+            - <mark>Service Strategic Management Club</mark> *President*
             
               - We studied strategic management, both from textbook study and from case study.
               - On every vacation, we carried out projects for service enterprises to apply our knowledge --- I was affiliated with BENIKEA headquarters, which is a hotel cooperative owned by the Korean government.
               - We proposed many marketing strategies to attract more customers, especially focusing on developing its unique style such as Providing traditional amenities and new branding to maintain its brand values.
               - Advisor : *Prof Kang, Kyung Ho*
               
-            - Student Council <mark>Leader of PR Team</mark>
+            - <mark>Student Council</mark> *Leader of PR Team*
             
               - As the leader of the PR team, I was responsible for managing the social media accounts of my major.
               - To notify as many students as possible was my top priority --- I was always considering when to upload, how to upload and what to upload.
               
-            - International Friendship and Culture Exchange Club <mark>Member</mark>
+            - <mark>International Friendship and Culture Exchange Club</mark> *Member*
             
               - As a multilingual in East Asian languages, I was responsible to take care of many students from Chinese region and Japan.
               - One of my experience in this club includes to deal with an unusual situation involved with police, and the situation was solved easily, fortunately.
@@ -147,7 +147,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: STP Planning Project @ Life Insurance Company in Korea
         Company: Korean Leading Life Insurance Company (Confidential)
         # link: github.com/sproogen
@@ -170,7 +170,7 @@ content:
 
             - <mark>Proposing field-specific tactics</mark> for potential customer segments
 
-      - layout: top-middle
+      - layout: left
         title: Holistic Marketing Strategy Consulting @ Benikea Hotel Chain Headquarters
         Company: Benikea Hotel Chain Headquarters
         # link: github.com/sproogen
