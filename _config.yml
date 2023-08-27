@@ -51,9 +51,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research interests rely on <mark>consumer search, e-commerce, digital marketing and search marketing</mark>, which my [Master's thesis](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT) focused on. With regard to methodology, I am intrigued by <mark>econometrical methodology</mark>, as well as <mark>machine learning</mark> to investigate various data and <mark>Bayesian methodology</mark>.
 
-  During my time at SNU, I strictly studied those methodology and implemented related projects.
+  During my time at Seoul National University Graduate School, I strictly studied those methodology and implemented related projects in marketing department, especially focusing on **quantitative methodology**.
 
   If you want to understand me formally, you can refer to my [CV](https://1drv.ms/b/s!ArR47cH0ml_jjKhEWZHwgokPu995zw?e=Q4ftP8), or feel free to send an e-mail to me.
+
+  I was majored in **Hospitality Management** at Kyung Hee University in undergraduate. You may think about why the major is changed dramatically. One of my professors in KHU always mentioned that hospitality management should focus more on data science in order to identify customer's preference, which made me take courses in business statistics and business analytics.
+
+  While taking the courses, I found out that the methodology is amazing! Inferring population from samples and deriving insights by analyzing and predicting data was surprising me, which allows me to pursue quantitative skills. Delving into those skills, I thought that studying marketing will be very powerful tools.
 
   One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>, which derived from interests in diverse cultures.
 
@@ -218,8 +222,9 @@ content:
     content:
       - layout: left
         # image: /images/logo_storelink.png
-        title: Teaching Assistant at SNU
+        title: Teaching Assistant
         caption: January 2022 - February 2023
+        subtitle: at SNU
         # quote: >
         #   Storelink is an e-marketing solution company specializing in data-driven marketing strategies. Our customers include conglomerates and SMEs, and we are growing rapidly. 
         description: | # this will include new lines to allow paragraphs
