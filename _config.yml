@@ -40,8 +40,8 @@ linkedin_username: 민기-구-b83061169
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-google_analytics: "G-H1BCBS1SXL"
+gtag: "UA-283186543-1"
+# google_analytics: "G-H1BCBS1SXL"
 
 # About Section
 # about_title: About Me
@@ -107,7 +107,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        logo: /images/logo_snu.png
+        image_file: /images/logo_snu.png
         title: Seoul National University (SNU)
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
