@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research interests rely on <mark>consumer search, e-commerce, digital marketing and search marketing</mark>, which my [Master's thesis](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT) focused on. With regard to methodology, I am intrigued by <mark>econometrical methodology</mark>, as well as <mark>machine learning</mark> to investigate various data and <mark>Bayesian methodology</mark>.
 
-  During my SNU, I strictly studied those methodology and implemented related projects.
+  During my time at SNU, I strictly studied those methodology and implemented related projects.
 
   If you want to understand me formally, you can refer to my [CV](https://1drv.ms/b/s!ArR47cH0ml_jjKhEWZHwgokPu995zw?e=Q4ftP8), or feel free to send an e-mail to me.
 
@@ -69,29 +69,26 @@ content:
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
         quote: >
-          *(Advisor : Prof. Jun B. Kim)* Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
+          *Advisor : Prof. Jun B. Kim* \nSeoul National University is a top school in South Korea, and one of the leading universities of Asia.
         description: | # this will include new lines to allow paragraphs
           During my time at SNU, I learnt <mark>Quantitative marketing</mark> under many prominent marketing professors, which allows me to solve marketing problems based on data. Especially, I have been interested in <mark>consumer search</mark>, <mark>e-commerce</mark>, <mark>Bayesian statistics</mark> and <mark>machine learning</mark>.
 
-            1) [Dissertation](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT) : Heterogeneous Rank Effects in Online Marketplaces
+            - [Dissertation](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT) : Heterogeneous Rank Effects in Online Marketplaces
 
               - Analyzed heterogeneous rank effects across product categories in the online marketplace using the fixed effect model
-
               - Found out the main factors as heterogeneity in product characteristics and price dispersion
-
               - Suggested search engine marketing strategy for different product categories online
-
               - Novel to analyze the organic results of the online marketplace by difference categories
 
 
-            2) Replicates of Rossi, McCulloch and Allenby (1996, *MktSci*)
+            - Replicates of Rossi, McCulloch and Allenby (1996, *MktSci*)
 
               - Implemented during the coursework "Studies in quantitative Marketing Decision Making"
               - Replicated Bayesian model proposed by Rossi, McCulloch and Allenby (1996, *MktSci*) without any structured packages in R
               - Compared the estimated result and prediction with those of the frequentist approach (MLE)
 
 
-            3) Analysis of the Floating Population in commercial districs in Seoul
+            - Analysis of the Floating Population in commercial districs in Seoul
 
               - Implemented during the coursework "Special Topics in Quantitative Marketing"
               - Analyzed which type of food service businesses has an inpact on the number of floating population for suggesting where is suitable for running the businesses
