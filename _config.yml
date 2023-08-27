@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   If you want to understand me formally, you can refer to my [CV](https://1drv.ms/b/s!ArR47cH0ml_jjKhEWZHwgokPu995zw?e=Q4ftP8), or feel free to send an e-mail to me.
 
-  One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>, which derived from interests in different cultures.
+  One of my unusual hobbies is to study languages: I can speak <mark>English</mark>, <mark>Chinese(Mandarin)</mark>, <mark>Japanese</mark>, as well as my mother tongue <mark>Korean</mark>, which derived from interests in diverse cultures.
 
 
 
@@ -97,6 +97,7 @@ content:
         
 
           Featured Courseworks : Special Topics in Quantitative Marketing, Studies in quantitative Marketing Decision Making, Seminars in Marketing Models, Studies in Econometrics
+          
       - layout: left
         logo: /images/logo_khu.png
         title: Kyunghee University (KHU)
@@ -135,19 +136,19 @@ content:
               - One of my experience in this club includes to deal with an unusual situation involved with police, and the situation was solved easily, fortunately.
               - My best experience during my undergraduate that I could broaden my insights to languages, cultures and people.
 
-          Featured Courseworks related to Quantitative Marketing : Business Analytics, Business Statistics, Principles of Economics, Essentials of Marketing Research, Theory of Marketing
+          Featured Courseworks related to **Quantitative Marketing** : Business Analytics, Business Statistics, Principles of Economics, Essentials of Marketing Research, Theory of Marketing
 
 
-          Featured Courseworks related to Hospitality Management : Hospitality Strategic Management Case Study, Internet Marketing in Hospitality Industry, Hotel Management Analysis and M&A, Hotel Rooms Management
+          Featured Courseworks related to **Hospitality Management** : Hospitality Strategic Management Case Study, Internet Marketing in Hospitality Industry, Hotel Management Analysis and M&A, Hotel Rooms Management
 
 
-          Featured Courseworks related to Political Science : International Relations Theories and Their Applications, Theories of International Relations, Comparative Politics, Government and Politics of Korea
+          Featured Courseworks related to **Political Science** : International Relations Theories and Their Applications, Theories of International Relations, Comparative Politics, Government and Politics of Korea
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: STP Planning Project
+        title: STP Planning Project @ Life Insurance Company in Korea
         Company: Korean Leading Life Insurance Company (Confidential)
         # link: github.com/sproogen
         # link_text: Project Website
@@ -159,16 +160,18 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This project aimed to create a totally new STP strategy, bringing focus to consumers' <mark>digital behavior</mark>.
+          This project aimed to create a totally new STP strategy, bringing focus to consumers' **digital behavior**.
         description: | # this will include new lines to allow paragraphs
           At my time at SNU, I collaborated on this project with 4 professors, including my advisor, and fellow graduate students, from the fields of Marketing, Information Systems and Finance Major. My responsibilities were as follows:
 
-            1) <mark>Developing a comprehensive survey</mark> to understand customers' insurance purchasing journey and their digital behavior
-            2) <mark>Analyzing the survey data</mark> to identify latent demand and effectively target potential customers
-            3) <mark>Proposing field-specific tactics</mark> for potential customer segments
+            - <mark>Developing a comprehensive survey</mark> to understand customers' insurance purchasing journey and their digital behavior
+
+            - <mark>Analyzing the survey data</mark> to identify latent demand and effectively target potential customers
+
+            - <mark>Proposing field-specific tactics</mark> for potential customer segments
 
       - layout: top-middle
-        title: Holistic Marketing Strategy Consulting Project
+        title: Holistic Marketing Strategy Consulting @ Benikea Hotel Chain Headquarters
         Company: Benikea Hotel Chain Headquarters
         # link: github.com/sproogen
         # link_text: Project Website
@@ -184,8 +187,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           At my time at KHU, I was involved in student club of strategic management to consult service corporations as the project leader. Proposals of this projects were as follows:
 
-            1) Planning new brand segmentation by benchmarking leading global hotel chains and sepereating single brands into diverse brands for integrated operation
-            2) Suggesting overseas expansion, special promotions and new amenities to establish a consistent brand identity as a Korean hotel chain and unique characteristics
+            - <mark>Planning new brand segmentation</mark> by benchmarking leading global hotel chains and sepereating single brands into diverse brands for integrated operation
+            - <mark>Suggesting overseas expansion</mark>, special promotions and new amenities to establish a consistent brand identity as a Korean hotel chain and unique characteristics
 
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -208,7 +211,7 @@ content:
               2) <mark>Customer Segmentation</mark> : We have many customers to buy the products of our business partners. To enhance the success rate of our marketing campaigns, I am developing a **customer segmentation model for targeted marketing**.
 
 
-              3) <mark>Algorithm Detection<mark> : One of our top priorities is to expose our customers' products at the top of the search result site. Therefore, changes in the search algorithms are crucial to our business. I have identified the key variables that significantly impact search algorithms, as well as the timings of algorithm changes.
+              3) <mark>Algorithm Detection</mark> : One of our top priorities is to expose our customers' products at the top of the search result site. Therefore, changes in the search algorithms are crucial to our business. I have identified the key variables that significantly impact search algorithms, as well as the timings of algorithm changes.
             
   - title: Teaching Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -235,14 +238,13 @@ content:
         title: Idea Contest for Mokpo
         caption: December 2020
         quote: >
-          Hosted by *the Korea Academic Society for the Food Service Industry Policy*, achieved *the 2nd prize* awarded by <mark>the governor of Jeollanam-do Province</mark>
+          Hosted by *the Korea Academic Society for the Food Service Industry Policy*, achieved *the 2nd prize* awarded by **the governor of Jeollanam-do Province**
         description: | # this will include new lines to allow paragraphs
             This contest aimed to find an appropriate idea to develop the tourism industry of Mokpo city, which is located in the southern part of South Korea, Jeollanam-do province. 
 
-              1) Suggested commercial development oplicy for the pandemic situation by associating food tourism and car camping to attract various age groups by targeting detailed demographics
+              - <mark>Suggested commercial development oplicy</mark> for the pandemic situation by associating food tourism and car camping to attract various age groups by targeting detailed demographics
 
-
-              2) Analyzed public data and local commercial districts to define and solve the problem
+              - <mark>Analyzed public data</mark> and local commercial districts to define and solve the problem
 
   - title: Military Service # Title for the section
     layout: list # Type of content section (list/text)
@@ -252,11 +254,11 @@ content:
         title: Republic of Korea Air Force
         caption: July 2016 - July 2018
         quote: >
-          Sergeant Discharge
+          Sergeant Discharged
         description: | # this will include new lines to allow paragraphs
-            During my military service, I worked as a military police to guard and patrol base and took charge of a special strike force, as well as military dog. In the military police department, I was also responsible for administrative tasks, including scheduling duty and furlough, and stock management.
+            During my military service, I worked as a **military police** to guard and patrol base and took charge of a special strike force, as well as military dog. In the military police department, I was also responsible for **administrative tasks**, including scheduling duty and furlough, and stock management.
             
-            Additioanlly, I was elected as a deputy squadron leader ensuring proper soldier management.
+            Additioanlly, I was elected as a **deputy squadron leader** ensuring proper soldier management.
 
 
   - title: A Little More About Me
