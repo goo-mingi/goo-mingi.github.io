@@ -69,9 +69,9 @@ content:
         caption: 2021 - 2023
         sub_title: MSc Business Administration (Quantitative Marketing)
         quote: >
-          *Advisor : Prof. Jun B. Kim* \nSeoul National University is a top school in South Korea, and one of the leading universities of Asia.
+          Seoul National University is a top school in South Korea, and one of the leading universities of Asia.
         description: | # this will include new lines to allow paragraphs
-          During my time at SNU, I learnt <mark>Quantitative marketing</mark> under many prominent marketing professors, which allows me to solve marketing problems based on data. Especially, I have been interested in <mark>consumer search</mark>, <mark>e-commerce</mark>, <mark>Bayesian statistics</mark> and <mark>machine learning</mark>.
+          During my time at SNU, I learnt <mark>Quantitative marketing</mark> under many prominent marketing professors, which allows me to solve marketing problems based on data. Under the instruction of my advisor *Prof. Kim, Jun B.*, I have developed my interests in <mark>consumer search</mark>, <mark>e-commerce</mark>, <mark>Bayesian statistics</mark> and <mark>machine learning</mark>.
 
             - [Dissertation](https://1drv.ms/b/s!ArR47cH0ml_ji7cIz2DMQ0AXHxEZ1g?e=lhO3nT) : Heterogeneous Rank Effects in Online Marketplaces
 
@@ -148,8 +148,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: STP Planning Project @ Life Insurance Company in Korea
-        Company: Korean Leading Life Insurance Company (Confidential)
+        title: STP Planning Project
+        sub_title: at Korean Leading Life Insurance Company (Confidential)
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -160,7 +160,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This project aimed to create a totally new STP strategy, bringing focus to consumers' **digital behavior**.
+          This project aimed to create a totally new STP strategy, bringing focus to consumers' digital behavior.
         description: | # this will include new lines to allow paragraphs
           At my time at SNU, I collaborated on this project with 4 professors, including my advisor, and fellow graduate students, from the fields of Marketing, Information Systems and Finance Major. My responsibilities were as follows:
 
@@ -171,8 +171,8 @@ content:
             - <mark>Proposing field-specific tactics</mark> for potential customer segments
 
       - layout: left
-        title: Holistic Marketing Strategy Consulting @ Benikea Hotel Chain Headquarters
-        Company: Benikea Hotel Chain Headquarters
+        title: Holistic Marketing Strategy Consulting
+        sub_title: at Benikea Hotel Chain Headquarters
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
