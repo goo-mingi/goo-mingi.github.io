@@ -40,8 +40,8 @@ linkedin_username: 민기-구-b83061169
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-5T4BG2FP"
-gtag: "UA-283186543-1"
-# google_analytics: "G-H1BCBS1SXL"
+# gtag: "UA-283186543-1"
+google_analytics: "G-H1BCBS1SXL"
 
 # About Section
 # about_title: About Me
