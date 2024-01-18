@@ -160,12 +160,12 @@ content:
 
               - <mark>Brand Involvement Analysis</mark> : While consumers tend to refer to rankings when making purchase decisions in online markets, some products are more heavily influenced by their brands than the rankings themselves. We term these **Keywords in High Brand Involvement**. This model evaluates whether the products resulting from a keyword search exhibit high brand involvement. I took the initiative to develop this model from a **zero-base**, employing both **econometric methodologies** and **machine learning techniques**. This model has emerged as a **core competency** for our company, and we are currently developing a customer-facing version of it for our website, collaborating with software engineers.
 
+              - <mark>E-commerce Analysis SaaS</mark> : We are currently focusing on expanding our services internationally, from Korea to the USA. To achieve this, I am dedicated to developing analysis models and topics for sellers operating in online marketplaces. This initiative is set to evolve into a Software as a Service (SaaS) offering. I am excited for everyone to experience and benefit from this service!
 
               - <mark>Customer Segmentation</mark> : We aim to serve a diverse set of customers through our business partners. To increase the effectiveness of our marketing campaigns, I am in the process of developing a customer segmentation model for **targeted marketing**.
 
-
               - <mark>Algorithm Detection</mark> : One of our top priorities is to ensure that our customers' products appear at the top of search result pages. Therefore, insights into changes in search algorithms are critical for our operations. I have identified key variables that markedly affect search algorithms, as well as pinpointed the timings when these algorithm changes occur.
-            
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
